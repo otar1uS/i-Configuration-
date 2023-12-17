@@ -1,6 +1,6 @@
 # 3D iPhone Configurator
 
-![image](https://user-images.githubusercontent.com/78056869/162715582-ff13a7f4-6287-44a9-ab0f-4c28f7307225.png)
+
 
 Simple iPhone 13 Pro Max 3D Configurator made with [react-three-fiber](https://github.com/pmndrs/react-three-fiber).
 
